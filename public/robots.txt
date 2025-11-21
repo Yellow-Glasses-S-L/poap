@@ -1,3 +1,3 @@
 User-agent:*
 Disallow:
-Sitemap: https://ab8ab927-d481-4797-88c8-fe76e2d47a31.weweb-preview.io/sitemap.xml
+Sitemap: https://experience.poap.studio/sitemap.xml
