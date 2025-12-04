@@ -48,7 +48,8 @@
             },
             "realtimeTables": {
                 "Drop": true,
-                "MintCodes": true
+                "MintCodes": true,
+                "drop_mint_code_stats": true
             }
         }
     }
